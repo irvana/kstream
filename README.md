@@ -1,0 +1,1 @@
+Simple project for kafka streams
